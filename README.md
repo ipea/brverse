@@ -58,6 +58,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [censobr](https://ipeagit.github.io/censobr): Download Data from Brazil's Population Census
 - [brpop](https://rfsaldanha.github.io/brpop/): Brazilian Population Estimates
 - [PNADcIBGE](https://CRAN.R-project.org/package=PNADcIBGE): Downloading, Reading and Analyzing PNADC Microdata
+- [PNADCperiods](https://CRAN.R-project.org/package=PNADCperiods): Identify Reference Periods in Brazil's PNADC Survey Data
 
 ## Saúde
 
