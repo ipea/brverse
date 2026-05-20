@@ -59,6 +59,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [brpop](https://rfsaldanha.github.io/brpop/): Brazilian Population Estimates
 - [PNADcIBGE](https://CRAN.R-project.org/package=PNADcIBGE): Downloading, Reading and Analyzing PNADC Microdata
 - [PNADCperiods](https://CRAN.R-project.org/package=PNADCperiods): Identify Reference Periods in Brazil's PNADC Survey Data
+- [datazoom.social](https://CRAN.R-project.org/package=datazoom.social): Download microdata from the PNADC and includes panel identification algorithms for linking individuals across survey waves.
 
 ## Saúde
 
