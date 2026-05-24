@@ -27,6 +27,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 - [electionsBR](https://electionsbr.com/novo/): R Functions to Download and Clean Brazilian Electoral Data
 - [speechbr](https://CRAN.R-project.org/package=speechbr): Access the Speechs and Speaker's Informations of House of Representatives of Brazil
+- [agregR](https://cran.r-project.org/package=agregR): Bayesian State-Space Aggregation of Brazilian Presidential Polls
 
 
 ## Espaciais e de endereços:
