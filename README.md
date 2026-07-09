@@ -45,6 +45,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [BrazilMet](https://CRAN.R-project.org/package=BrazilMet): Download and Processing of Automatic Weather Stations (AWS) Data of INMET-Brazil
 - [florabr](https://wevertonbio.github.io/florabr/): Explore Flora e Funga do Brasil Database
 - [flora](https://CRAN.R-project.org/package=flora): Tools for Interacting with the Brazilian Flora 2020
+- [rmet](https://cran.r-project.org/package=rmet): Automates the download and processing of historical weather data from the Brazilian National Institute of Meteorology (INMET)
 
 
 ## Nomes
