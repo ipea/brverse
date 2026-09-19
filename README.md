@@ -23,6 +23,7 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 ## Educação
 
 - [educabR](https://CRAN.R-project.org/package=educabR): Download and Process Brazilian Education Data from INEP
+- [capesR](https://CRAN.R-project.org/package=capesR): Access to CAPES Data
 
 ## Eleitorais e Política
 
