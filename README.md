@@ -77,6 +77,11 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 - [BrazilCrime](https://CRAN.R-project.org/package=BrazilCrime): Accesses Brazilian Public Security Data from SINESP Since 2015
 - [ispdata](https://CRAN.R-project.org/package=ispdata): Access Public Security data from Rio de Janeiro
 
+## Trabalho
+
+- [datacaged](https://CRAN.R-project.org/package=datacaged): CAGED Microdata Download and Storage in 'DuckDB'
+
+
 ## Transportes
 
 - [flightsbr](https://ipeagit.github.io/flightsbr): Download Flight and Airport Data from Brazil
