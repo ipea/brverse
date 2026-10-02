@@ -67,7 +67,8 @@ Esse repositório traz uma lista de pacotes de R para acesso a dados brasileiros
 
 ## Saúde
 
-- [microdatasus](https://rfsaldanha.github.io/microdatasus/): Download and Process 'DataSUS' Files
+- [healthbR](https://CRAN.R-project.org/package=healthbR): Access Brazilian Public Health Data
+- [microdatasus](https://CRAN.R-project.org/package=microdatasus): Download and Process 'DataSUS' Files
 - [PNSIBGE](https://CRAN.R-project.org/package=PNSIBGE): Downloading, Reading and Analyzing PNS Microdata
 - [COVIDIBGE](https://CRAN.R-project.org/package=COVIDIBGE): Downloading, Reading and Analyzing PNAD COVID19 Microdata
 
